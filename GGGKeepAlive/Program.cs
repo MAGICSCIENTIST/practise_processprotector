@@ -51,7 +51,7 @@ namespace GGGKeepAlive
             WriteSucceed(_needProtectProcessList.Select(x => $"{x.Describe}     {x.Command}\n").ToList());
 
 
-            if (fuckQuickMode())
+            if (!fuckQuickMode())
             {
                 WriteWarn("未取消快速编辑模式");
             }
