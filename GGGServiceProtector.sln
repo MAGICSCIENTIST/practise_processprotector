@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GGGServiceProtector", "GGGServiceProtector\GGGServiceProtector.csproj", "{BC7A47CC-C846-46F4-BA7F-FB9C4DBCBDE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GGGKeepAlive", "GGGKeepAlive\GGGKeepAlive.csproj", "{1026FF2E-9D8A-4B3C-A6A3-F7D0F404594B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC7A47CC-C846-46F4-BA7F-FB9C4DBCBDE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC7A47CC-C846-46F4-BA7F-FB9C4DBCBDE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC7A47CC-C846-46F4-BA7F-FB9C4DBCBDE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC7A47CC-C846-46F4-BA7F-FB9C4DBCBDE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1026FF2E-9D8A-4B3C-A6A3-F7D0F404594B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1026FF2E-9D8A-4B3C-A6A3-F7D0F404594B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1026FF2E-9D8A-4B3C-A6A3-F7D0F404594B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1026FF2E-9D8A-4B3C-A6A3-F7D0F404594B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6011AB4-D9E9-47C1-97CD-5D502C15E88F}
+	EndGlobalSection
+EndGlobal
